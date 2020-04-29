@@ -1,0 +1,53 @@
+/* Exercise progression panel */
+
+#next-exercises {
+    margin-top: 10px;
+    background-color: #ececec;
+    align-content: center;
+    color: #000;
+    width: 100%;
+    height: auto;
+    /* display: none; */
+    border: solid 2px #daa520;
+}
+
+#next-exercises h2 {
+    font-size: 1.2rem;
+    color: #333333;
+}
+
+#curr-exercise-div {
+    display: default;
+    height: auto;
+}
+
+#next-exercise-div {
+    display: default;
+}
+
+.curr-exercise-div-title,
+.next-exercise-div-title {
+    padding-left: 10px;
+}
+
+/* Paragraph elements */
+#current-exercise {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #fff;
+    margin: 0 auto;
+}
+
+#upcoming-exercise {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #9a9a9a;
+    margin: 0 auto;
+}

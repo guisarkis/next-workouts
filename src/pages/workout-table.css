@@ -1,0 +1,12 @@
+/* Exercises table */
+.workout-table {
+    margin-top: 10px;
+    border: solid 2px #cccccc;
+    border-radius: 0;
+    
+}
+
+table, th, td {
+    padding: 10px;
+    vertical-align: center;
+}
