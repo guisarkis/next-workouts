@@ -1,4 +1,4 @@
-import './workout-table.css';
+import '../css/workout-table.css';
 
 export const WorkoutTable = () => {
 

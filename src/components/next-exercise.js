@@ -1,4 +1,4 @@
-import './next-exercise.css';
+import '../css/next-exercise.css';
 
 export const NextExercise = () => {
     return  <div id="next-exercises">

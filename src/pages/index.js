@@ -1,11 +1,11 @@
-import '../main.css';
-import {Menu} from './components/menu';
-import {title} from './title';
-import {Header} from './components/header';
-import {WorkoutTable} from './components/workout-table';
-import {Buttons} from './components/buttons';
-import {Timer} from './components/timer';
-import {NextExercise} from './components/next-exercise';
+import '../css/main.css';
+import {Menu} from '../components/menu';
+import {title} from '../components/title';
+import {Header} from '../components/header';
+import {WorkoutTable} from '../components/workout-table';
+import {Buttons} from '../components/buttons';
+import {Timer} from '../components/timer';
+import {NextExercise} from '../components/next-exercise';
 
 const Page = () => {
   return  <div>
